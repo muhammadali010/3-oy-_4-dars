@@ -1,0 +1,39 @@
+* {
+    font-family: 'poppins';
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.navbar {
+    display: flex;
+    max-width: 100%;
+    height: 100px;
+    align-items: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+li:hover {
+    cursor: pointer;
+    color: rgb(147, 147, 253);
+}
+
+ul {
+    display: flex;
+    gap: 75px;
+    margin-right: 160px;
+}
+
+.logo {
+    margin-left: 54px;
+    margin-right: 266px;
+}
+
+.icons a img {
+    margin-right: 45px;
+}
