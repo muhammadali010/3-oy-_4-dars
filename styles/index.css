@@ -37,3 +37,30 @@ ul {
 .icons a img {
     margin-right: 45px;
 }
+
+.header {
+    width: 1440px;
+    height: 100px;
+    background: #f9f1E7;
+    display: flex;
+    align-items: center;
+}
+.header p:nth-child(1){
+    margin-left: 99px;
+    margin-right: 58px;
+}
+.header h4:hover{
+    cursor: pointer;
+    color:rgb(147, 147, 253);
+}
+.header p:hover{
+    cursor: pointer;
+    color:rgb(147, 147, 253);
+}
+.hr {
+    width: 0px;
+    height: 37px;
+    border: 2px solid #9F9F9F;
+    margin-left: 66px;
+    margin-right: 34px;
+}
