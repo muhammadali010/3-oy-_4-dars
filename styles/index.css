@@ -167,7 +167,7 @@ ul {
     color: #9F9F9F;
 }
 
-.sizes{
+.sizes {
     display: flex;
     align-items: center;
 }
@@ -190,9 +190,11 @@ ul {
     background-color: #b88e2f;
     cursor: pointer;
 }
-.razmer h2{
+
+.razmer h2 {
     margin-bottom: 5px;
 }
+
 .color p {
     font-size: 14px;
     font-weight: 400;
@@ -207,7 +209,8 @@ ul {
 .ranglar img:hover {
     cursor: pointer;
 }
-.button1{
+
+.button1 {
     display: flex;
     width: 123px;
     height: 64px;
@@ -217,18 +220,22 @@ ul {
     margin-top: 31px;
     margin-right: 18px;
 }
-.button1:hover{
+
+.button1:hover {
     cursor: pointer;
     background: #9F9F9F;
 }
-.button1 h2{
-    color:#000000;
+
+.button1 h2 {
+    color: #000000;
 }
-.buttons{
+
+.buttons {
     display: flex;
     margin-bottom: 50px;
 }
-.button2{
+
+.button2 {
     width: 215px;
     height: 64px;
     margin-top: 31px;
@@ -238,28 +245,95 @@ ul {
     margin-right: 18px;
     align-items: center;
 }
-.button2:hover{
+
+.button2:hover {
     cursor: pointer;
     background: #9F9F9F;
 }
-.button2 h2{
-font-size: 20px;
-font-weight: 400;
-line-height: 30px;
-color: #000000;
-margin-left: 30px;
+
+.button2 h2 {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #000000;
+    margin-left: 30px;
 }
-.linklar p{
-font-size: 16px;
-font-weight: 400;
-line-height: 10px;
-color: #9F9F9F;
-margin-right: 61px;
+
+.linklar p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 10px;
+    color: #9F9F9F;
+    margin-right: 61px;
 }
-.linklar{
-    display:flex;
+
+.linklar {
+    display: flex;
     align-items: center;
 }
+
 .linklar a img {
     margin-right: 15px;
+}
+.tagi{
+    margin-bottom: 66px;
+}
+
+.mm {
+    display: flex;
+    margin-top: 45px;
+    margin-left: 396px;
+    margin-bottom: 37px;
+}
+
+.h1_1 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #000000;
+    margin-right: 52px;
+}
+.h1_2{
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+margin-right: 52px;
+color: #9F9F9F;
+}
+.h1_3{
+    font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+color: #9F9F9F;
+}
+.lorem p{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: #9F9F9F;
+margin-left: 207px;
+}
+.lorem2{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #9F9F9F;
+    margin-left: 207px;
+    margin-top: 30px; 
+    margin-bottom: 36px;
+}
+.twoimg{
+    display: flex;
+}
+.first_img{
+    width: 605px;
+height: 348px;
+background: #f9f1E7;
+margin-left: 100px;
+margin-right: 29px;
+}
+.second_img{
+    width: 605px;
+    height: 348px;
+    background: #f9f1E7;
 }
